@@ -3,6 +3,7 @@ This is a warehouse for accumulating Android technical knowledge, learn new thin
 
  - Handler
 
+     - idleHandler
  - 内存泄漏
 
  - 性能优化
